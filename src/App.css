@@ -1,0 +1,117 @@
+:root{
+  --condiv-flex: 6;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.nav-item:hover {
+  background: #000;
+}
+
+.bg-Mana{
+  background-color: rgb(231, 223, 223);
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.imgProfile{
+  border-radius: 30%;  
+  width: 500px;
+}
+
+.typingeffect{
+  font-size: 20px;
+  color: #000;
+  
+}
+
+.about{
+  border-radius: 30%;  
+}
+
+
+
+.Cardabout:hover{
+  border-radius: 10%;
+  color: #ffff;
+  background-color: rgb(255, 94, 0);
+  box-shadow: 3px 3px 10px rgba(0, 0,0, 0.3);
+}
+.Cardabout img{
+  border-radius: 10%
+}
+
+.Cardabout cite{
+  color: #000;
+}
+
+.Cardabout cite{
+  color: #000;
+}
+
+.widecard{
+  display: flex;
+  margin: 30px 0px 30px 0px;
+  transition: 0.3s;
+  border-radius: 10px;
+  padding: .5rem; 
+  align-items: center;
+}
+
+h1 h2 h3 h4 {
+  margin: 50px;
+}
+
+.widecard img{
+  width: 200px;
+  height: 200px;
+  margin-right: 10px;
+}
+
+.widecard:hover{
+  color: #ffff;
+  background-color: rgb(255, 94, 0);
+  box-shadow: 3px 3px 10px rgba(0, 0,0, 0.3);
+}
+
+.skill ul{
+
+  background-color: #333;
+  color: #ffff;
+  border-radius: 10px;
+  margin: 30px 0px 30px 0px;
+}
+
+.skill ul li{
+  list-style: none;
+  margin: 20px;
+  padding: 10px;
+}
+
+.subtoppic {
+  margin: 10px 10px 30px 10px;
+}
+
+.social {
+  position: absolute;
+  margin-top: 20px;
+  display: flex;
+  bottom: 60px;
+}
+
+.social a{
+  padding-right: 30px;
+  font-size: 25px;
+  color: #9a9b9c;
+}
+
+.social a:hover{
+  color: #333;
+}
+
+.Home{
+  align-items: center;
+}
