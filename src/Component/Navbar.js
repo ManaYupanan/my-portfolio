@@ -19,7 +19,7 @@ function Navbar(prop) {
                     <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
                     <Navitem item="Home" link="/" />
                     <Navitem item="About" link="/about" />
-                    <Navitem item="Eduction" link="/education" />
+                    <Navitem item="Education" link="/education" />
                     <Navitem item="Skill" link="/skill" />
                     <Navitem item="Contact" link="/contact" />
                     </div>
